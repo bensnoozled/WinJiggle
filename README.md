@@ -4,6 +4,11 @@ A jiggling windows python script
 ## Context
 I was having issues with ghosting on some older monitors that I use for IM clients and text files. This script jiggles the windows on the target monitors every so often so that the gh
 
+## Requirements
+Python 3.6
+
+[win32api](http://timgolden.me.uk/pywin32-docs/win32.html)
+
 ## Settings
 There are some variables that will need to be customized per machine:
 
