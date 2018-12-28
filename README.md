@@ -2,7 +2,7 @@
 A jiggling windows python script
 
 ## Context
-I was having issues with ghosting on some older monitors that I use for IM clients and text files. This script jiggles the windows on the target monitors every so often so that the gh
+I was having issues with ghosting on some older monitors that I use for IM clients and text files. This script jiggles the windows on the target monitors every so often to make the ghosting less noticable.
 
 ## Requirements
 Python 3.6
